@@ -1,4 +1,4 @@
-# linux
+# linux/mac
 • pwd：打印工作目录。  
 • hostname：计算机在网络中的名称。  
 • mkdir：创建目录。  
